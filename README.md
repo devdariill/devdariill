@@ -1,25 +1,18 @@
 <h1 align="center">Name: Ronald Dario Marmol Rojas</h1>
-<h3 align="center">
-  Systems Engineer from Mariana University, with emphasis in Java, React and
-  Flask
-</h3>
-<p align="center">
-<p>
-    - 🤖 1st Personal Project [MERN remodelar](https://github.com/dev-ronaaldll/Mern-Remodelar) 
-</p>
-<p>
+<h3 align="center">Systems Engineer from Mariana University, with emphasis in Java, React and Flask</h3>
 
-</p>
-    - 👾 2nd Personal Project [Flask remodelar](https://github.com/dev-ronaaldll/remodelar-v1.0) 
-</p>
-<p>
-    - ✉ Link Tree [📫 How to reach me](https://beacons.ai/_dev_ronald_) 
-</p>
-<p>
-    - 👨‍💻 All of my projects are available at **https://github.com/dev-ronaaldll** 
-</p>
-- 📄 Know about my experiences **https://www.linkedin.com/in/ronald-dario-marmol-rojas/** 
-- 💯 I want learning **Rust. and Games**    
+- 🤖 1st Personal Project [MERN remodelar](https://github.com/dev-ronaaldll/Mern-Remodelar)
+
+- 👾 2nd Personal Project [Flask remodelar](https://github.com/dev-ronaaldll/remodelar-v1.0)
+
+- ✉ Link Tree [📫 How to reach me](https://beacons.ai/_dev_ronald_)
+
+- 👨‍💻 All of my projects are available at **https://github.com/dev-ronaaldll**
+
+- 📄 Know about my experiences **https://www.linkedin.com/in/ronald-dario-marmol-rojas/**
+
+- 💯 I want learning **Rust. and Games**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a
@@ -38,7 +31,7 @@
       align="center"
       src="https://influencermarketinghub.com/wp-content/uploads/2021/05/60f3709027327b3c7d731c4c_beacons.png"
       height="20"
-      width="60"
+      width="50"
   /></a>
 </p>
 
@@ -344,27 +337,25 @@
   </a>
 </p>
 <div align="center">
-  <p>
+    <p>
+        <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-ronaaldll&show_icons=true&locale=en&layout=compact"
+        alt="dev-ronaaldll"
+        />
+    </p>    
+    <p>
+        &nbsp;<img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api?username=dev-ronaaldll&show_icons=true&theme=dark&locale=en"
+    alt="dev-ronaaldll"
+    />
+</p>
+<p>
     <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-ronaaldll&show_icons=true&locale=en&layout=compact"
-      alt="dev-ronaaldll"
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=dev-ronaaldll&theme=dark"
+    alt="dev-ronaaldll"
     />
-  </p>
-
-  <p>
-    &nbsp;<img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=dev-ronaaldll&show_icons=true&theme=dark&locale=en"
-      alt="dev-ronaaldll"
-    />
-  </p>
-
-  <p>
-    <img
-      align="center"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=dev-ronaaldll&theme=dark"
-      alt="dev-ronaaldll"
-    />
-  </p>
+</p>
 </div>
