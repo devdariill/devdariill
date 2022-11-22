@@ -1,4 +1,4 @@
-<h1 align="center">Name: Ronald Dario Marmol Rojas</h1>
+<h1 align="center">🏅 Ronald Dario Marmol Rojas</h1>
 <h3 align="center">Systems Engineer from Mariana University, with emphasis in Java, React and Flask</h3>
 
 - 🤖 1st Personal Project [MERN remodelar](https://github.com/dev-ronaaldll/Mern-Remodelar)
