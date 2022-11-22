@@ -344,27 +344,27 @@
   </a>
 </p>
 <div align="center">
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-ronaaldll&show_icons=true&locale=en&layout=compact"
-    alt="dev-ronaaldll"
-  />
-</p>
+  <p>
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-ronaaldll&show_icons=true&locale=en&layout=compact"
+      alt="dev-ronaaldll"
+    />
+  </p>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=dev-ronaaldll&show_icons=true&theme=dark&locale=en"
-    alt="dev-ronaaldll"
-  />
-</p>
+  <p>
+    &nbsp;<img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=dev-ronaaldll&show_icons=true&theme=dark&locale=en"
+      alt="dev-ronaaldll"
+    />
+  </p>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=dev-ronaaldll&theme=dark"
-    alt="dev-ronaaldll"
-  />
-</p>
-<div>
+  <p>
+    <img
+      align="center"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=dev-ronaaldll&theme=dark"
+      alt="dev-ronaaldll"
+    />
+  </p>
+</div>
