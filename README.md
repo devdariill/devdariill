@@ -1,6 +1,5 @@
 <h1 align="center">🏅 Ronald Dario Marmol Rojas</h1>
 <h3 align="center">Systems Engineer from Mariana University, with emphasis in Java, React and Flask</h3>
-
 - 🤖 1st Personal Project [MERN remodelar](https://github.com/dev-ronaaldll/Mern-Remodelar)
 
 - 👾 2nd Personal Project [Flask remodelar](https://github.com/dev-ronaaldll/remodelar-v1.0)
@@ -312,6 +311,7 @@
     />
   </a>
 </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-ronaaldll" alt="dev-ronaaldll" /></a> </p>
 <div align="center">
     <p>
         <img
