@@ -279,18 +279,10 @@
       height="40"
     />
   </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
+  <a href="https://www.digitalocean.com" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-      alt="heroku"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
+      src="https://www.digitalocean.com/_next/static/media/logo.87a8f3b8.svg"
+      alt="digitalocean"
       width="40"
       height="40"
     />
@@ -303,14 +295,6 @@
       height="40"
     />
   </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://zapier.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg"
@@ -318,15 +302,7 @@
       width="40"
       height="40"
     />
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-      alt="redis"
-      width="40"
-      height="40"
-    />
-  </a>
+  </a>  
   <a href="https://grafana.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"
