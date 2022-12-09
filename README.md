@@ -24,7 +24,7 @@
       height="30"
       width="50"
   /></a>
-  <a href="https://beacons.ai/_dev_ronald_" target="blank"
+  <a href="https://beacons.ai/dev_ronaaldll" target="blank"
     >
     <img
       align="center"
