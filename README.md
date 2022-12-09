@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences **https://www.linkedin.com/in/ronald-dario-marmol-rojas/**
 
-- 💯 I want learning **Rust. and Games**
+- 💯 I want learn **Rust. and Games**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
