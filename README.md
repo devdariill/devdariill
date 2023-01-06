@@ -1,9 +1,9 @@
 <h1 align="center">🏅 Ronald Dario Marmol Rojas</h1>
 <h3 align="center">Systems Engineer from Mariana University, with emphasis in Java, React and Flask</h3>
 
-- 🤖 1st Personal Project [MERN remodelar](https://github.com/devronalldll/Mern-Remodelar)
+- 🤖 1st Personal Project [MERN remodelar](https://github.com/devdariill/Mern-Remodelar)
 
-- 👾 2nd Personal Project [Flask remodelar](https://github.com/devronalldll/remodelar-v1.0)
+- 👾 2nd Personal Project [Flask remodelar](https://github.com/devdariill/remodelar-v1.0)
 
 - ✉ Link Tree [📫 How to reach me](https://beacons.ai/devdariill)
 
@@ -312,27 +312,27 @@
     />
   </a>
 </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devronalldll" alt="devronalldll" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devdariill" alt="devdariill" /></a> </p>
 <div align="center">
     <p>
         <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=devronalldll&show_icons=true&locale=en&layout=compact"
-        alt="devronalldll"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=devdariill&show_icons=true&locale=en&layout=compact"
+        alt="devdariill"
         />
     </p>    
     <p>
         &nbsp;<img
         align="center"
-        src="https://github-readme-stats.vercel.app/api?username=devronalldll&show_icons=true&theme=dark&locale=en"
-    alt="devronalldll"
+        src="https://github-readme-stats.vercel.app/api?username=devdariill&show_icons=true&theme=dark&locale=en"
+    alt="devdariill"
     />
 </p>
 <p>
     <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=devronalldll&theme=dark"
-    alt="devronalldll"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=devdariill&theme=dark"
+    alt="devdariill"
     />
 </p>
 </div>
