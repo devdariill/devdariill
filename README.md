@@ -5,9 +5,9 @@
 
 - 👾 2nd Personal Project [Flask remodelar](https://github.com/devronalldll/remodelar-v1.0)
 
-- ✉ Link Tree [📫 How to reach me](https://beacons.ai/_dev_ronald_)
+- ✉ Link Tree [📫 How to reach me](https://beacons.ai/devdariill)
 
-- 👨‍💻 All of my projects are available at **https://github.com/devronalldll**
+- 👨‍💻 All of my projects are available at **https://github.com/devdariill?tab=repositories**
 
 - 📄 Know about my experiences **https://www.linkedin.com/in/ronald-dario-marmol-rojas/**
 
@@ -25,7 +25,7 @@
       height="30"
       width="50"
   /></a>
-  <a href="https://beacons.ai/dev_ronaaldll" target="blank"
+  <a href="https://beacons.ai/devdariill" target="blank"
     >
     <img
       align="center"
