@@ -1,5 +1,18 @@
 <h1 align="center">🏅 Ronald Dario Marmol Rojas</h1>
-<h3 align="center">Systems Engineer from Mariana University, with emphasis in Java, React and Flask</h3>
+<h3 align="center">Systems Engineer from Mariana University, with emphasis in MERN, Python and Java </h3>
+<h3 align="center">People Reached~22K 
+  <a
+    href="https://stackoverflow.com/users/18545946/devdariill"
+    target="blank"
+    ><img
+      align="center"      
+      src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a"
+      alt="stackoverflow.com/users/18545946/devdariill"
+      height="50"
+      width="60"
+  />
+</h3>
+Reference-style: 
 
 - 🤖 1st Personal Project [MERN remodelar](https://github.com/devdariill/Mern-Remodelar)
 
