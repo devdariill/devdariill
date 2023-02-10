@@ -3,7 +3,7 @@
 <h3 align="center">People Reached~22K 
   <a
     href="https://stackoverflow.com/users/18545946/devdariill"
-    target="blank"
+    target="_blank"
     ><img
       align="center"      
       src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a"
@@ -30,7 +30,7 @@ Reference-style:
 <p align="left">
   <a
     href="https://linkedin.com/in/https://www.linkedin.com/in/ronald-dario-marmol-rojas/"
-    target="blank"
+    target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -38,7 +38,7 @@ Reference-style:
       height="30"
       width="50"
   /></a>
-  <a href="https://beacons.ai/devdariill" target="blank"
+  <a href="https://beacons.ai/devdariill" target="_blank"
     >
     <img
       align="center"
