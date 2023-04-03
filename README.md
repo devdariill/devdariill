@@ -332,7 +332,7 @@ Reference-style:
     <p>
         <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=devdariill&show_icons=true&locale=en&layout=compact&hide_progress=true&theme=radical"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=devdariill&show_icons=true&theme=radical&locale=en&layout=compact&hide_progress=true"
         alt="devdariill"
         />
     </p>    
