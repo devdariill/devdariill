@@ -329,11 +329,11 @@ Reference-style:
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devdariill&theme=radical" alt="devdariill" /></a> 
 </p>
 <div align="center">
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devdariill&show_icons=true&theme=radical&locale=en&layout=compact" alt="devdariill" /></p>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devdariill&show_icons=true&theme=radical&locale=en&layout=compact&hide_progress=true" alt="devdariill" /></p>
     <p>
         &nbsp;<img
         align="center"
-        src="https://github-readme-stats.vercel.app/api?username=devdariill&show_icons=true&theme=dark&locale=en&theme=radical"
+        src="https://github-readme-stats.vercel.app/api?username=devdariill&show_icons=true&locale=en&theme=radical"
     alt="devdariill"
     />
 </p>
